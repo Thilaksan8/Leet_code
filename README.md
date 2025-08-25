@@ -12,7 +12,11 @@ This repository contains solutions to LeetCode problems implemented in C++.
 
 3. **Largest Sum After K Negations**
    - Problem: Given an integer array nums and an integer k, choose indices and replace `nums[i]` with `-nums[i]` exactly `k` times to get the largest possible sum of the array.
-4.** Comming on Tomorrow
+
+4.**Sort Integers by The Number of 1 Bits
+   -Problem: Given an integer array arr, sort the integers in ascending order by the number of 1's in their binary representation. If two integers have the same number of 1's, sort them in ascending order by value.
+
+
      
 ## Setup
 
