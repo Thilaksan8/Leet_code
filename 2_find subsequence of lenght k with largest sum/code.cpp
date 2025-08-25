@@ -21,8 +21,6 @@ public:
             final.push_back(i.first);
         }
 
-        
-    
         return final;
         
     }
