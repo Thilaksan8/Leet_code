@@ -10,7 +10,8 @@ This repository contains solutions to LeetCode problems implemented in C++.
 2. **Find Subsequence of Length K with Largest Sum**
    - Problem: Find the subsequence of length k with the largest sum from a given list.
 
-3. ** for tommorow
+3. **Largest Sum After K Negations**
+   - Problem: Given an integer array nums and an integer k, choose indices and replace `nums[i]` with `-nums[i]` exactly `k` times to get the largest possible sum of the array.
 
 ## Setup
 
