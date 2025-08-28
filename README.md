@@ -21,8 +21,12 @@ This repository contains solutions to LeetCode problems implemented in C++.
 
 6. **Ugly Number II**  
    - Problem: An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5. Given an integer `n`, return the `n`th ugly number.
+   - 
+7. **Ugly Number**  
+   - Problem: An ugly number is a positive integer which does not have a prime factor other than 2, 3, and 5. Given an integer `n`, return true if `n` is an ugly number.
 
-  
+   
+
 ## Setup
 
 To run these solutions locally, follow these steps:
