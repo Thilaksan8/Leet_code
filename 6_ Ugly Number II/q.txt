@@ -1,5 +1,5 @@
-Ugly Number II
-Attempted
+264. Ugly Number II
+Solved
 Medium
 Topics
 premium lock icon
@@ -23,6 +23,4 @@ Output: 1
 Explanation: 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
  
 
-Constraints:
-
-1 <= n <= 1690
+Constraints:1 <= n <= 1690
